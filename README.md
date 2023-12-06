@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px">
 
 I'm Hilina , a passionate Software Developer from Addis Ababa, Ethiopia. Welcome to my GitHub profile! 🚀
 
